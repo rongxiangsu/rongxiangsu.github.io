@@ -31,6 +31,7 @@ Hi there! My name is Rongxiang Su. I am an incoming Postdoctoral Research at [MI
 
 
 # Peer reviewer for 
+- <em>Computational Urban Science</em>
 - <em>Data Science for Transportation</em>
 - <em>European Journal of Transport and Infrastructure Research </em>
 - <em>GIScience & Remote Sensing </em>
@@ -47,6 +48,7 @@ Hi there! My name is Rongxiang Su. I am an incoming Postdoctoral Research at [MI
 - <em>Transportation Research Part A: Policy and Practice</em>
 - <em>Transportation Research Part C: Emerging Technologies</em>
 - <em>Transportation Research Board Annual Meeting</em>
+- <em>Transportation Research Record</em>
 - <em>Travel Behaviour and Society</em>
 
 
