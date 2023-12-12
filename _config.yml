@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rongxiang Su, PhD"
 title_separator          : "-"
-name                     : &name "Rongxiang Su"
+name                     : &name "Rongxiang Su, PhD"
 description              : &description "personal description"
 url                      : https://rongxiangsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rongxiang Su"
+  name             : "Rongxiang Su, PhD"
   avatar           : "profile.jpg"
   bio              : "Movement analysis, Human Mobility, Travel Behavior, Accessibility"
   location         : "Cambridge, MA, USA"

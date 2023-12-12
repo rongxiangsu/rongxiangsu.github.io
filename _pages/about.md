@@ -18,7 +18,7 @@ Hi there! My name is Rongxiang Su. I am an incoming Postdoctoral Research at [MI
 - B.S. in Geographic Information System, Hefei University of Technology, China, 2016
 
 
-# Award
+# Honors and Awards
 - AAG-GISS Student Paper Competition Honorable Mention Award, 2023
 - Jack and Laura Dangermond Fellowship, 2022
 - Geography Department Excellence in Research Award, UCSB, 2022
@@ -31,22 +31,22 @@ Hi there! My name is Rongxiang Su. I am an incoming Postdoctoral Research at [MI
 
 
 # Peer reviewer for 
-- Data Science for Transportation 
-- European Journal of Transport and Infrastructure Research 
-- GIScience & Remote Sensing 
-- IEEE Access
-- IEEE Transactions on Intelligent Transportation Systems
-- International Journal of Geographical Information Science 
-- Journal of Spatial Information Science
-- Journal of Transport Geography
-- Nature Human Behaviour
-- Public Transport
-- Transactions in GIS
-- Transportation
-- Transportation Letters: the International Journal of Transportation Research
-- Transportation Research Part A: Policy and Practice
-- Transportation Research Part C: Emerging Technologies
-- Transportation Research Board Annual Meeting
-- Travel Behaviour and Society
+- <em>Data Science for Transportation</em>
+- <em>European Journal of Transport and Infrastructure Research </em>
+- <em>GIScience & Remote Sensing </em>
+- <em>IEEE Access</em>
+- <em>IEEE Transactions on Intelligent Transportation Systems</em>
+- <em>International Journal of Geographical Information Science </em>
+- <em>Journal of Spatial Information Science</em>
+- <em>Journal of Transport Geography</em>
+- <em>Nature Human Behaviour</em>
+- <em>Public Transport</em>
+- <em>Transactions in GIS</em>
+- <em>Transportation</em>
+- <em>Transportation Letters: the International Journal of Transportation Research</em>
+- <em>Transportation Research Part A: Policy and Practice</em>
+- <em>Transportation Research Part C: Emerging Technologies</em>
+- <em>Transportation Research Board Annual Meeting</em>
+- <em>Travel Behaviour and Society</em>
 
 
