@@ -17,7 +17,11 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
+
+    {% if page.url == "/" %}
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=n&d=7U-NbkNueSQCnWoXzOHtuI1VaiAdSH-jN7XGn6nE3Qg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    {% endif %}
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
