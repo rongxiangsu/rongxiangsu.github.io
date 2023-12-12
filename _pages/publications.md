@@ -32,7 +32,7 @@ You can also find my full publication list on [my Google Scholar profile](https:
 1. Fang, Z., **Su, R.**, Huang, L. (2018). Understanding the effect of an E-hailing app subsidy war on taxicab operation zones. *Journal of Advanced Transportation*, 2018. doi: [10.1155/2018/7687852](https://doi.org/10.1155/2018/7687852)
 
 
-## Movement analysis, interaction analysis, time geography, scale
+## Movement Analysis, Human Interaction, Time Geography, Scale
 
 1. **Su, R.**, Dodge, S., Goulias, K. (2022). A classification framework and computational methods for human interaction analysis using movement data. *Transactions in GIS*, 26(4), 1665-1682. doi: [10.1111/tgis.12960](https://doi.org/10.1111/tgis.12960)
 
@@ -42,7 +42,7 @@ You can also find my full publication list on [my Google Scholar profile](https:
 
 1. Dodge, S., **Su, R.**, Johnson, J., Simcharoen, A., Goulias, K., Smith, J., Ahearn, S. (2021). ORTEGA: an object-oriented time-geographic analytical approach to trace space-time contact patterns in movement data. *Computers, Environment and Urban Systems*, 88, 101630. doi: [10.1016/j. compenvurbsys.2021.101630](https://doi.org/10.1016/j. compenvurbsys.2021.101630)
 
-## Other topics
+## Other Topics
 1. **Su, R.**, Goulias, K. (2021). Evolution of the Chinese Spring Festival Travel network during the COVID-19 early outbreak. *Transportation letters*, 13(5-6), 492-500. doi: [10.1080/19427867.2021.1896065](https://doi.org/10.1080/19427867.2021.1896065)
 
 1. **Su, R.**, Fang, Z. (2019). A review of studies in taxi mobility and e-hailing taxi service. *Journal of Smart Cities*, 4(1), 1-6.
