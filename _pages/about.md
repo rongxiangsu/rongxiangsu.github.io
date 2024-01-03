@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Rongxiang Su. I am a Postdoctoral Researcher at [MIT Senseable City Lab](https://senseable.mit.edu/) (January 2024 - present). I earned my PhD in Geography from the [Department of Geography](https://www.geog.ucsb.edu/) at the [University of California Santa Barbara](https://www.ucsb.edu/). My research focuses on movement analysis, human mobility and activity pattern analysis, travel behavior, accessibility and space-time modeling. I also serve as a peer reviewer for several academic journals and conferences. In my spare time, I enjoy playing tennis, cooking, listening to podcasts, and exploring national parks! Feel free to reach out! I am always enthusiastic about discussing research. 
+Hi there! My name is Rongxiang Su. I am a Postdoctoral Researcher at [MIT Senseable City Lab](https://senseable.mit.edu/) (January 2024 - present). I work with Prof. [Carlo Ratti](https://carloratti.com/) and Prof. [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/). I earned my PhD in Geography from the [Department of Geography](https://www.geog.ucsb.edu/) at the [University of California Santa Barbara](https://www.ucsb.edu/). My research focuses on movement analysis, human mobility and activity pattern analysis, travel behavior, accessibility and space-time modeling. I also serve as a peer reviewer for several academic journals and conferences. In my spare time, I enjoy playing tennis, cooking, listening to podcasts, and exploring national parks! Feel free to reach out! I am always enthusiastic about discussing research. 
 [You may find my CV here.](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf)
 
 ## Education
@@ -42,6 +42,7 @@ Hi there! My name is Rongxiang Su. I am a Postdoctoral Researcher at [MIT Sensea
 1. <em>Journal of Spatial Information Science</em>
 1. <em>Journal of Transport Geography</em>
 1. <em>Nature Human Behaviour</em>
+1. <em>npj Sustainable Mobility and Transport</em>
 1. <em>Public Transport</em>
 1. <em>Transactions in GIS</em>
 1. <em>Transportation</em>
