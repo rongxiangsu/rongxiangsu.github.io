@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Rongxiang Su. I am an incoming Postdoctoral Researcher at [MIT Senseable City Lab](https://senseable.mit.edu/) (January 2024 -). I earned my PhD in Geography from the [Department of Geography](https://www.geog.ucsb.edu/) at the [University of California Santa Barbara](https://www.ucsb.edu/). My research focuses on movement analysis, human mobility and activity pattern analysis, travel behavior, accessibility and space-time modeling. I also serve as a peer reviewer for several academic journals and conferences. In my spare time, I enjoy playing tennis, cooking, listening to podcasts, and exploring national parks! Feel free to get in touch! I am always enthusiastic about discussing research. 
+Hi there! My name is Rongxiang Su. I am a Postdoctoral Researcher at [MIT Senseable City Lab](https://senseable.mit.edu/) (January 2024 - present). I earned my PhD in Geography from the [Department of Geography](https://www.geog.ucsb.edu/) at the [University of California Santa Barbara](https://www.ucsb.edu/). My research focuses on movement analysis, human mobility and activity pattern analysis, travel behavior, accessibility and space-time modeling. I also serve as a peer reviewer for several academic journals and conferences. In my spare time, I enjoy playing tennis, cooking, listening to podcasts, and exploring national parks! Feel free to reach out! I am always enthusiastic about discussing research. 
 [You may find my CV here.](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf)
 
 ## Education
