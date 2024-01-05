@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Rongxiang Su. I am a Postdoctoral Researcher at [MIT Senseable City Lab](https://senseable.mit.edu/) (January 2024 - present). I work with Dr. [Carlo Ratti](https://carloratti.com/) and Dr. [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/). I earned my PhD in Geography from the [Department of Geography](https://www.geog.ucsb.edu/) at the [University of California Santa Barbara](https://www.ucsb.edu/). My research focuses on movement analysis, human mobility and activity pattern analysis, travel behavior, accessibility and space-time modeling. I also serve as a peer reviewer for several academic journals and conferences. In my spare time, I enjoy playing tennis, cooking, listening to podcasts, and exploring national parks! Feel free to reach out! I am always enthusiastic about discussing research. 
-[You may find my CV here.](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf)
+Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City Lab](https://senseable.mit.edu/), working with Dr. [Carlo Ratti](https://carloratti.com/) and Dr. [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/). He earned his Ph.D. in Geography from the University of California, Santa Barbara. His academic interests encompass movement analysis, human mobility, travel behavior, accessibility, and space-time modeling. His research aims to understand the underlying mechanisms driving spatiotemporal processes such as human mobility through the fine-scale observation of movement of dynamic entities and their interaction in space and time. In parallel, his research contributes to the promotion of equitable and sustainable transportation by more holistically modeling and predicting travel behavior at a fine temporal granularity. Beyond his research, he also serves as a peer reviewer for several academic journals and conferences. In his leisure time, he enjoys playing tennis, practicing meditation, cooking, listening to podcasts, and exploring national parks. For contact, he can be reached at rxsu at mit dot edu. His detailed CV is available [here](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf).
+
+
 
 ## Education
 - PhD in Geography, <em>University of California Santa Barbara</em>, 2023 
