@@ -12,6 +12,7 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 
 
 
+
 ## Education
 - PhD in Geography, <em>University of California Santa Barbara</em>, 2023 
   - Dissertation: Sensing Human Activity and Interaction Patterns through Movement Observations 
@@ -19,6 +20,12 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 - M.S. in Cartography and Geographic Information System, <em>Wuhan University, China</em>, 2019
 - B.S. in Geographic Information System, <em>Hefei University of Technology, China</em>, 2016
 
+
+<!-- <img src="images/about/motif1.png " alt="drawing" width="500">
+<img src="images/about/time_patterns.png " alt="drawing" width="600">
+<img src="images/about/interaction.png " alt="drawing" width="600">
+<img src="images/about/racial.png " alt="drawing" width="600">
+ -->
 
 ## Honors and Awards
 - AAG-GISS Student Paper Competition Honorable Mention Award, 2023

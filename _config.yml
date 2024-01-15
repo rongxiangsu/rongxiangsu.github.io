@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rongxiang Su, PhD"
+title                    : "Rongxiang Su"
 title_separator          : "-"
-name                     : &name "Rongxiang Su, PhD"
+name                     : &name "Rongxiang Su"
 description              : &description "personal description"
 url                      : https://rongxiangsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
