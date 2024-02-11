@@ -1,3 +1,7 @@
-_site/
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*_site/
 
 .DS_Store
