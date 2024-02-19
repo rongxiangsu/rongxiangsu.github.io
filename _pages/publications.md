@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my full publication list on [my Google Scholar profile](https://scholar.google.com.sg/citations?user=B_8XbFgAAAAJ&hl=zh-CN&authuser=1).
 
-## Human Mobility, Travel Behavior
+## Human Mobility, Travel Behavior, Urban Analytics
 
 1. **Su, R.**, Goulias, K. (2023). Untangling the relationships among residential environment, destination choice, and daily walk accessibility. *Journal of Transport Geography*, 109, 103595. doi: [10.1016/j.jtrangeo.2023.103595](https://doi.org/10.1016/j.jtrangeo.2023.103595)
 
@@ -32,7 +32,9 @@ You can also find my full publication list on [my Google Scholar profile](https:
 1. Fang, Z., **Su, R.**, Huang, L. (2018). Understanding the effect of an E-hailing app subsidy war on taxicab operation zones. *Journal of Advanced Transportation*, 2018. doi: [10.1155/2018/7687852](https://doi.org/10.1155/2018/7687852)
 
 
-## Movement Analysis, Human Interaction, Time Geography, Scale
+## Movement Analysis, Interaction Analysis, Time Geography, Scale
+
+1. **Su, R.**, Liu, Y., Dodge, S. (2024). ORTEGA v1.0: An open-source Python package for context-aware interaction analysis using movement data. *Movement Ecology*. (in press)
 
 1. **Su, R.**, Dodge, S., Goulias, K. (2022). A classification framework and computational methods for human interaction analysis using movement data. *Transactions in GIS*, 26(4), 1665-1682. doi: [10.1111/tgis.12960](https://doi.org/10.1111/tgis.12960)
 
