@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my full publication list on [my Google Scholar profile](https://scholar.google.com.sg/citations?user=B_8XbFgAAAAJ&hl=zh-CN&authuser=1).
+For my full publication list, please see [Google Scholar](https://scholar.google.com.sg/citations?user=B_8XbFgAAAAJ&hl=zh-CN&authuser=1).
 
 ## Human Mobility, Travel Behavior, Urban Analytics
 
