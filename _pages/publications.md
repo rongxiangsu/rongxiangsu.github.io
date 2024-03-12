@@ -34,7 +34,7 @@ For my full publication list, please see [Google Scholar](https://scholar.google
 
 ## Movement Analysis, Interaction Analysis, Time Geography, Scale
 
-1. **Su, R.**, Liu, Y., Dodge, S. (2024). ORTEGA v1.0: An open-source Python package for context-aware interaction analysis using movement data. *Movement Ecology*. (in press)
+1. **Su, R.**, Liu, Y., Dodge, S. (2024). ORTEGA v1.0: An open-source Python package for context-aware interaction analysis using movement data. *Movement Ecology*, 12, 20. doi: [10.1186/s40462-024-00460-2](https://doi.org/10.1186/s40462-024-00460-2) 
 
 1. **Su, R.**, Dodge, S., Goulias, K. (2022). A classification framework and computational methods for human interaction analysis using movement data. *Transactions in GIS*, 26(4), 1665-1682. doi: [10.1111/tgis.12960](https://doi.org/10.1111/tgis.12960)
 

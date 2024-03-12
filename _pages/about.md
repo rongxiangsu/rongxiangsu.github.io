@@ -41,6 +41,7 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 
 ## Peer reviewer for 
 1. <em>Applied Energy</em>
+1. <em>Applied Network Science</em>
 1. <em>Computational Urban Science</em>
 1. <em>Data Science for Transportation</em>
 1. <em>European Journal of Transport and Infrastructure Research </em>
