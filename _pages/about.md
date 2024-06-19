@@ -51,6 +51,7 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 1. <em>International Journal of Geographical Information Science </em>
 1. <em>Journal of Spatial Information Science</em>
 1. <em>Journal of Transport Geography</em>
+1. <em>Journal of Happiness Studies</em>
 1. <em>Nature Human Behaviour</em>
 1. <em>npj Sustainable Mobility and Transport</em>
 1. <em>Public Transport</em>
@@ -60,8 +61,12 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 1. <em>Transportation Letters: the International Journal of Transportation Research</em>
 1. <em>Transportation Research Part A: Policy and Practice</em>
 1. <em>Transportation Research Part C: Emerging Technologies</em>
-1. <em>Transportation Research Board Annual Meeting</em>
 1. <em>Transportation Research Record</em>
 1. <em>Travel Behaviour and Society</em>
+1. <em>Transportation Planning and Technology</em>
+1. <em>Transportation Research Board Annual Meeting</em>
+1. <em>World Transport Convention</em>
+
+
 
 
