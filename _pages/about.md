@@ -10,8 +10,7 @@ redirect_from:
 
 My name is Rongxiang Su (he/him), and I am currently a Postdoctoral Fellow at [MIT Senseable City Lab](https://senseable.mit.edu/). I hold a Ph.D. in Geography from the University of California, Santa Barbara. My research interests include geospatial data science, human mobility, travel behavior, and urban analytics. My work focuses on understanding human mobility, travel behavior, and activity patterns in urban systems through the analysis of human-generated data, such as mobile phone traces, household travel surveys, and online food delivery orders. I am particularly interested in developing computational methods to identify and quantify spatiotemporal patterns of human daily activities and interactions. In parallel, I aim to understand disparities in human behavior by modeling and predicting activity-travel patterns across different socio-geographical contexts, contributing to the promotion of sustainable, equitable, and inclusive transportation systems and access to urban amenities.
 
-In addition to my research, I serve as a peer reviewer for several academic journals and conferences. I am always open to discussing research and potential collaborations, so feel free to email me at rxsu at mit dot edu! My CV is available [here](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf).
-
+In addition to my research, I serve as a peer reviewer for several academic journals and conferences. I am always enthusiastic about discussing research and potential collaborations. Feel free to email me at rxsu at mit dot edu!
 
 
 
