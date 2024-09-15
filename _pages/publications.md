@@ -11,23 +11,23 @@ For my full publication list, please see [Google Scholar](https://scholar.google
 
 1. **Su, R.**, Goulias, K. (2023). Untangling the relationships among residential environment, destination choice, and daily walk accessibility. *Journal of Transport Geography*, 109, 103595. doi: [10.1016/j.jtrangeo.2023.103595](https://doi.org/10.1016/j.jtrangeo.2023.103595)
 
+1. Shi, H., **Su, R.**, Xiao, J., Goulias, K. (2022). Spatiotemporal analysis of activity-travel fragmentation based on spatial clustering and sequence analysis. *Journal of Transport Geography*, 102, 103382. doi: [10.1016/j.jtrangeo.2022.103382](https://doi.org/10.1016/j.jtrangeo.2022.103382)
+
 1. **Su, R.**, Xiao, J., McBride, E.C., Goulias, K. (2021). Understanding senior’s daily mobility patterns in California using human mobility motifs. *Journal of Transport Geography*, 94, 103117. doi: [10.1016/j.jtrangeo.2021.103117](https://doi.org/10.1016/j.jtrangeo.2021.103117)
 
 1. **Su, R.**, McBride, E.C., Goulias, K. (2021). Unveiling daily activity pattern differences between telecommuters and commuters using human mobility motifs and sequence analysis. *Transportation Research Part A: Policy and Practice*, 147, 106-132. doi: [10.1016/j.tra.2021.03.002](https://doi.org/10.1016/j.tra.2021.03.002)
 
 1. **Su, R.**, McBride, E.C., Goulias, K. (2020). Pattern recognition of daily activity patterns using human mobility motifs and sequence analysis. *Transportation Research Part C: Emerging Technologies*, 120, 102796. doi: [10.1016/j.trc.2020.102796](https://doi.org/10.1016/j.trc.2020.102796)
 
-1. **Su, R.**, Fang, Z., Xu, H., Huang, L. (2018). Uncovering Spatial Inequality in Taxi Services in the Context of a Subsidy War among E-Hailing Apps. *ISPRS International Journal of Geo-Information*, 7(6), 230. doi: [10.3390/ijgi7060230](https://doi.org/10.3390/ijgi7060230)
-
-1. **Su, R.**, Fang, Z., Luo, N., Zhu, J. (2018). Understanding the dynamics of the pick-up and drop-off locations of taxicabs in the context of a subsidy war among e-hailing apps. *Sustainability*, 10(4), 1256. doi: [10.3390/su10041256](https://doi.org/10.3390/su10041256)
-
-1. Shi, H., **Su, R.**, Xiao, J., Goulias, K. (2022). Spatiotemporal analysis of activity-travel fragmentation based on spatial clustering and sequence analysis. *Journal of Transport Geography*, 102, 103382. doi: [10.1016/j.jtrangeo.2022.103382](https://doi.org/10.1016/j.jtrangeo.2022.103382)
-
-1. Xiao, J., **Su, R.**, McBride, E.C., Goulias, K. (2020). Exploring the correlations between spatiotemporal daily activity-travel patterns and stated interest and perception of risk with self-driving cars. *AGILE: GIScience Series*, 1, 1-15. doi: [10.5194/agile-giss-1-22-2020](https://doi.org/10.5194/agile-giss-1-22-2020)
-
 1. Goulias, K., **Su, R.**, McBride, E.C. (2020). Revisiting the Impact of Teleworking on Activity-Travel Behavior Using Recent Data and Sequence-Based Analytical Techniques. (Research report to Pacific Southwest Region University Transportation Center).
 
 1. Goulias, K., McBride, E.C., **Su, R.** (2020). Life cycle stages, daily contacts, and activity-travel time allocation for the benefit of self and others. In: *Scheiner, J. and Rau, H. (eds) Mobility Across the Life Course*, Publisher: Edward Elgar. (book chapter)
+
+1. Xiao, J., **Su, R.**, McBride, E.C., Goulias, K. (2020). Exploring the correlations between spatiotemporal daily activity-travel patterns and stated interest and perception of risk with self-driving cars. *AGILE: GIScience Series*, 1, 1-15. doi: [10.5194/agile-giss-1-22-2020](https://doi.org/10.5194/agile-giss-1-22-2020)
+
+1. **Su, R.**, Fang, Z., Xu, H., Huang, L. (2018). Uncovering Spatial Inequality in Taxi Services in the Context of a Subsidy War among E-Hailing Apps. *ISPRS International Journal of Geo-Information*, 7(6), 230. doi: [10.3390/ijgi7060230](https://doi.org/10.3390/ijgi7060230)
+
+1. **Su, R.**, Fang, Z., Luo, N., Zhu, J. (2018). Understanding the dynamics of the pick-up and drop-off locations of taxicabs in the context of a subsidy war among e-hailing apps. *Sustainability*, 10(4), 1256. doi: [10.3390/su10041256](https://doi.org/10.3390/su10041256)
 
 1. Fang, Z., **Su, R.**, Huang, L. (2018). Understanding the effect of an E-hailing app subsidy war on taxicab operation zones. *Journal of Advanced Transportation*, 2018. doi: [10.1155/2018/7687852](https://doi.org/10.1155/2018/7687852)
 
@@ -44,7 +44,9 @@ For my full publication list, please see [Google Scholar](https://scholar.google
 
 1. Dodge, S., **Su, R.**, Johnson, J., Simcharoen, A., Goulias, K., Smith, J., Ahearn, S. (2021). ORTEGA: an object-oriented time-geographic analytical approach to trace space-time contact patterns in movement data. *Computers, Environment and Urban Systems*, 88, 101630. doi: [10.1016/j. compenvurbsys.2021.101630](https://doi.org/10.1016/j. compenvurbsys.2021.101630)
 
+
 ## Other Topics
+
 1. **Su, R.**, Goulias, K. (2021). Evolution of the Chinese Spring Festival Travel network during the COVID-19 early outbreak. *Transportation letters*, 13(5-6), 492-500. doi: [10.1080/19427867.2021.1896065](https://doi.org/10.1080/19427867.2021.1896065)
 
 1. **Su, R.**, Fang, Z. (2019). A review of studies in taxi mobility and e-hailing taxi service. *Journal of Smart Cities*, 4(1), 1-6.
