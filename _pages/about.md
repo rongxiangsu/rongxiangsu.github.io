@@ -40,32 +40,14 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 
 
 ## Peer reviewer for 
-1. <em>Applied Energy</em>
-1. <em>Applied Network Science</em>
-1. <em>Computational Urban Science</em>
-1. <em>Data Science for Transportation</em>
-1. <em>European Journal of Transport and Infrastructure Research </em>
-1. <em>GIScience & Remote Sensing </em>
-1. <em>IEEE Access</em>
-1. <em>IEEE Transactions on Intelligent Transportation Systems</em>
-1. <em>International Journal of Geographical Information Science </em>
-1. <em>Journal of Spatial Information Science</em>
-1. <em>Journal of Transport Geography</em>
-1. <em>Journal of Happiness Studies</em>
-1. <em>Nature Human Behaviour</em>
-1. <em>npj Sustainable Mobility and Transport</em>
-1. <em>Public Transport</em>
-1. <em>Scientific Reports</em>
-1. <em>Transactions in GIS</em>
-1. <em>Transportation</em>
-1. <em>Transportation Letters: the International Journal of Transportation Research</em>
-1. <em>Transportation Research Part A: Policy and Practice</em>
-1. <em>Transportation Research Part C: Emerging Technologies</em>
-1. <em>Transportation Research Record</em>
-1. <em>Travel Behaviour and Society</em>
-1. <em>Transportation Planning and Technology</em>
-1. <em>Transportation Research Board Annual Meeting</em>
-1. <em>World Transport Convention</em>
+- **Geography and GIS**: International Journal of Geographical Information Science, Transactions in GIS, Journal of Transport Geography, GIScience\&Remote Sensing,  Journal of Spatial Information Science
+
+- **Transportation**:  Transportation Research Part A: Policy and Practice, Transportation Research Part C: Emerging Technologies, IEEE Transactions on Intelligent Transportation Systems, Travel Behaviour and Society, Transportation, European Journal of Transport and Infrastructure Research, Public Transport,  Transportation Letters, Transportation Research Record, Data Science for Transportation, npj Sustainable Mobility and Transport, Transportation Planning and Technology, Transportation Research Board Annual Meeting, World Transport Convention
+
+- **Multidisciplinary**: Nature Human Behaviour, Scientific Reports, IEEE Access, International Journal of Data Science and Analytics
+
+- **Other**: Applied Energy, Computational Urban Science, Applied Network Science, Journal of Happiness Studies, Humanities and Social Sciences Communications
+
 
 
 
