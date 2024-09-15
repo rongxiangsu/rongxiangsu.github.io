@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City Lab](https://senseable.mit.edu/). He holds a Ph.D. in Geography from the University of California, Santa Barbara. His academic interests include spatial data science, human mobility, travel behavior, and urban analytics. He is interested in developing new computational methods for identifying and quantifying spatiotemporal patterns of human daily activities and interactions, using both conventional travel diaries and extensive movement data from individuals. His research contributes to equitable and sustainable transportation by developing comprehensive models that effectively predict travel behavior at a fine temporal granularity. Additionally, his research unravels the intricate relationships between the built environment and people’s daily behavior. Beyond his research, he also serves as a peer reviewer for several academic journals and conferences. For contact, he can be reached at rxsu at mit dot edu. His CV is available [here](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf).
+My name is Rongxiang Su (he/him), and I am currently a Postdoctoral Fellow at [MIT Senseable City Lab](https://senseable.mit.edu/). I hold a Ph.D. in Geography from the University of California, Santa Barbara. My research interests include geospatial data science, human mobility, travel behavior, and urban analytics. My work focuses on understanding human mobility, travel behavior, and activity patterns in urban systems through the analysis of human-generated data, such as mobile phone traces, household travel surveys, and online food delivery orders. I am particularly interested in developing computational methods to identify and quantify spatiotemporal patterns of human daily activities and interactions. In parallel, I aim to understand disparities in human behavior by modeling and predicting activity-travel patterns across different socio-geographical contexts, contributing to the promotion of sustainable, equitable, and inclusive transportation systems and access to urban amenities.
+
+In addition to my research, I serve as a peer reviewer for several academic journals and conferences. I am always open to discussing research and potential collaborations, so feel free to email me at rxsu at mit dot edu! My CV is available [here](http://rongxiangsu.github.io/files/Rongxiang_Su_CV.pdf).
 
 
 
@@ -41,11 +43,8 @@ Rongxiang Su (he/him) is currently a Postdoctoral Fellow at [MIT Senseable City 
 
 ## Peer reviewer for 
 - **Geography and GIS**: International Journal of Geographical Information Science, Transactions in GIS, Journal of Transport Geography, GIScience\&Remote Sensing,  Journal of Spatial Information Science
-
 - **Transportation**:  Transportation Research Part A: Policy and Practice, Transportation Research Part C: Emerging Technologies, IEEE Transactions on Intelligent Transportation Systems, Travel Behaviour and Society, Transportation, European Journal of Transport and Infrastructure Research, Public Transport,  Transportation Letters, Transportation Research Record, Data Science for Transportation, npj Sustainable Mobility and Transport, Transportation Planning and Technology, Transportation Research Board Annual Meeting, World Transport Convention
-
 - **Multidisciplinary**: Nature Human Behaviour, Scientific Reports, IEEE Access, International Journal of Data Science and Analytics
-
 - **Other**: Applied Energy, Computational Urban Science, Applied Network Science, Journal of Happiness Studies, Humanities and Social Sciences Communications
 
 
