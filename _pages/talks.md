@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Determinants of the localized behavior of individual online food delivery choices. *2025 Transportation Research Board Annual Meeting*. Washington, D.C. January, 2025. (Full paper submission; accepted for presentation)
+
 1. Spatiotemporal Dynamics of Racial-ethnic Diversity and Segregation: Insights from Mobile Phone Data. *ESRI Higher Education Webinar: Discover the Power of Spatial Data Science for Advancing Knowledge* (online). December 7, 2023. (Panelist)
 
 1. Spatiotemporal Dynamics of Racial-ethnic Diversity and Segregation: Insights from Mobile Phone Data. *Spatial Hour at Center for Spatial Studies and Data Science.* UCSB, California. November 29, 2023. (Oral presentation)
