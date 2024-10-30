@@ -11,7 +11,7 @@ For my full publication list, please see my [Google Scholar](https://scholar.goo
 
 
 ## 2024
-1. **Su, R.**, Newsham, N., Dodge, S. (2024). Spatiotemporal dynamics of ethnoracial diversity and segregation in Los Angeles County: Insights from mobile phone data. *Computers, Environment and Urban Systems*.
+1. **Su, R.**, Newsham, N., Dodge, S. (2024). Spatiotemporal dynamics of ethnoracial diversity and segregation in Los Angeles County: Insights from mobile phone data. *Computers, Environment and Urban Systems*, 114, 102203. doi: [10.1016/j.compenvurbsys.2024.102203](https://www.sciencedirect.com/science/article/pii/S0198971524001327)
 
 1. **Su, R.**, Liu, Y., Dodge, S. (2024). ORTEGA v1.0: An open-source Python package for context-aware interaction analysis using movement data. *Movement Ecology*, 12, 20. doi: [10.1186/s40462-024-00460-2](https://doi.org/10.1186/s40462-024-00460-2) 
 
