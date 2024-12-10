@@ -7,7 +7,7 @@ author_profile: true
 
 ## Guest lecturer at UCSB
 1. GEOG 111B: Transportation Modeling and Simulation (Winter 2020)
-- Guest lectured a class in 2020 winter on reviewing transportation data and methodologies, focusing on programming skills for exploring and visualizing data to understand travel behavior.
+- Guest lectured a class on reviewing transportation data and methodologies, focusing on technical skills for exploring and visualizing data to understand travel behavior.
 
 
 ## Teaching Assistant at UCSB
