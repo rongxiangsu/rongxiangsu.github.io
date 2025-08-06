@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Instructor at UIUC
+1. UP 418: GIS for Planners
+
 ## Guest lecturer at UCSB
 1. GEOG 111B: Transportation Modeling and Simulation (Winter 2020)
 - Guest lectured a class on reviewing transportation data and methodologies, focusing on technical skills for exploring and visualizing data to understand travel behavior.

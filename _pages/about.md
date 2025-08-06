@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Rongxiang Su (pronounced as Rong-sheeyang) (he/him), and I am currently a Postdoctoral Fellow at [MIT Senseable City Lab](https://senseable.mit.edu/). I hold a Ph.D. in Geography from the University of California, Santa Barbara. My research interests include geospatial data science, human mobility, travel behavior, and urban analytics. My work focuses on **understanding human mobility, travel behavior, and activity patterns in urban systems through the analysis of human-generated data** (e.g., mobile phone traces, household travel surveys, and food delivery transaction data). I am particularly interested in developing computational methods to identify and quantify spatiotemporal patterns of human daily activities and interactions. In parallel, I aim to understand disparities in human behavior by modeling and predicting activity-travel patterns across different socio-geographical contexts, contributing to the promotion of sustainable, equitable, and inclusive transportation systems and access to urban amenities.
+My name is Rongxiang Su (pronounced as Rong-sheeyang) (he/him), and I am a Teaching Assistant Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/) at University of Illinois Urbana-Champaign (UIUC). Before joining UIUC, I was a Postdoctoral Fellow at the [MIT Senseable City Lab](https://senseable.mit.edu/) from 2024 to 2025. I hold a Ph.D. in Geography from the University of California, Santa Barbara. 
 
-To date, I have published 21 peer-reviewed journal articles, book chapters, or conference proceedings (12 first-author journal articles) in GIScience and transportation and beyond (e.g., ecology and social sciences). Many of these appear in prestigious journals such as *Computers, Environment and Urban Systems*, *Journal of Geographical Systems*, *Journal of Transport Geography*, *Transportation Research Part C: Emerging Technologies*, *Transportation Research Part A: Policy and Practice*,  *Transactions in GIS* (also featured at the research session at the 2022 ESRI User Conference), and *Movement Ecology*.
-In addition to my research, I serve as a peer reviewer for more than 28 academic journals and conferences. I am always enthusiastic about discussing research and potential collaborations. Feel free to email me at <ins>rxsu at mit dot edu</ins>!
+My research interests lie in geospatial data science, human mobility, travel behavior, and urban analytics. Broadly, my work seeks to understand human mobility, travel behavior, and activity patterns in urban systems by analyzing human-generated data sources such as mobile phone traces, household travel surveys, and food delivery transactions. I am particularly interested in developing computational methods to identify and quantify the spatiotemporal dynamics of daily activities and interactions. In parallel, I aim to examine disparities in human behavior by modeling and predicting activity-travel patterns across diverse socio-geographic contexts—ultimately contributing to more sustainable, equitable, and inclusive transportation systems and access to urban opportunities.
+
+To date, I have published 21 peer-reviewed journal articles, book chapters, or conference proceedings (12 first-author journal articles) in GIScience and transportation and beyond (e.g., ecology and social sciences). Many of these appear in prestigious journals such as *Computers, Environment and Urban Systems*, *Journal of Geographical Systems*, *Journal of Transport Geography*, *Transportation Research Part C: Emerging Technologies*, *Transportation Research Part A: Policy and Practice*,  *Transactions in GIS*, and *Movement Ecology*.
+In addition to my research, I serve as a peer reviewer for more than 30 academic journals and conferences. I am always enthusiastic about discussing research and potential collaborations. Feel free to email me at <ins>rsu at illinois dot edu</ins>!
 
 
 
@@ -30,14 +32,16 @@ In addition to my research, I serve as a peer reviewer for more than 28 academic
  -->
 
 ## Honors and Awards
+- Outstanding Dissertation Award, AAG Transportation Geography Specialty Group, 2025
+- Honorable mention for 2023 Eric Pas Dissertation Prize, International Association for Travel Behaviour Research, 2025
 - AAG-GISS Student Paper Competition Honorable Mention Award, 2023
 - Jack and Laura Dangermond Fellowship, 2022
 - Geography Department Excellence in Research Award, UCSB, 2022
 - Chinese Government Award for Outstanding Self-financed Students Abroad, 2022
 - Chinese-American Engineers and Scientists Association of Southern California Scholarship, 2022
 - Best paper award, 1st ACM SIGSPATIAL International Workshop on Animal Movement Ecology and Human Mobility, Beijing, China (online), 2022
-- Multidisciplinary Research on the Coronavirus and its Impacts Grant, UCSB, 2020
-- Outstanding Graduate Student Award, Wuhan University, 2019
+<!-- - Multidisciplinary Research on the Coronavirus and its Impacts Grant, UCSB, 2020 -->
+<!-- - Outstanding Graduate Student Award, Wuhan University, 2019 -->
 
 
 

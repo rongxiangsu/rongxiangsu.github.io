@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-For my full publication list, please see my [Google Scholar](https://scholar.google.com.sg/citations?user=B_8XbFgAAAAJ&hl=zh-CN&authuser=1).
+For my full publication list, please see my [Google Scholar](https://scholar.google.com.sg/citations?user=TFOIX5oAAAAJ&hl=zh-CN).
 
 <!-- ## Human Mobility, Travel Behavior, Urban Analytics -->
+## 2025
+1. **Su, R.**\*, Eshtiyagh, J.\*, Santi, P., Hu, S., Duarte, F., Mazzarello, M., Ratti, C. (2025). Determinants of the localized behavior of individual food delivery choices. *Transportation Research Part C: Emerging Technologies*, 178, 105185. doi: [10.1016/j.trc.2025.105185](https://www.sciencedirect.com/science/article/pii/S0968090X25001895) (\*indicates equal contribution) 
 
 
 ## 2024
