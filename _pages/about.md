@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Rongxiang Su (pronounced as Rong-sheeyang) (he/him), and I am a Teaching Assistant Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/) at University of Illinois Urbana-Champaign (UIUC). Before joining UIUC, I was a Postdoctoral Fellow at the [MIT Senseable City Lab](https://senseable.mit.edu/) from 2024 to 2025. I hold a Ph.D. in Geography from the University of California, Santa Barbara. 
+My name is Rongxiang Su (pronounced as Rong-sheeyang) (he/him), and I am a Teaching Assistant Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/people/profiles/rongxiang-su/) at University of Illinois Urbana-Champaign (UIUC). Before joining UIUC, I was a Postdoctoral Fellow at the [MIT Senseable City Lab](https://senseable.mit.edu/) from 2024 to 2025. I hold a Ph.D. in Geography from the University of California, Santa Barbara. 
 
 My research interests lie in geospatial data science, human mobility, travel behavior, and urban analytics. Broadly, my work seeks to understand human mobility, travel behavior, and activity patterns in urban systems by analyzing human-generated data sources such as mobile phone traces, household travel surveys, and food delivery transactions. I am particularly interested in developing computational methods to identify and quantify the spatiotemporal dynamics of daily activities and interactions. In parallel, I aim to examine disparities in human behavior by modeling and predicting activity-travel patterns across diverse socio-geographic contexts—ultimately contributing to more sustainable, equitable, and inclusive transportation systems and access to urban opportunities.
 
