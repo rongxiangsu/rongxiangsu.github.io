@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor at UIUC
-1. UP 418: GIS for Planners
+## Instructor records at UIUC
+1. GIS workshop - Getting Started with GIS: Making Your First Map (Aug 22, 2025) [slides](https://docs.google.com/presentation/d/1YZFsbdN3RS-DYvXvGsXfnWS27Ito02XBkfTi8F7_R-k/edit?usp=sharing), [instructions](https://docs.google.com/document/d/1CsQKmtIQfx58El6JwH_70x5u9H6yZZ0A/edit?usp=sharing&ouid=109369996762418495300&rtpof=true&sd=true)
+
+1. UP 418: GIS for Planners (Fall 2025)
 
 ## Guest lecturer at UCSB
 1. GEOG 111B: Transportation Modeling and Simulation (Winter 2020)
