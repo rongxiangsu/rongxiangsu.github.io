@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor records at UIUC
-1. GIS workshop - Getting Started with GIS: Making Your First Map (Aug 22, 2025) [slides](https://docs.google.com/presentation/d/1YZFsbdN3RS-DYvXvGsXfnWS27Ito02XBkfTi8F7_R-k/edit?usp=sharing), [instructions](https://docs.google.com/document/d/181ZP-P-LAVllb0q3dOdDbBNEaEgovKyb6ViMxEYALKo/edit?usp=sharing)
+1. GIS workshop - Getting Started with GIS: Making Your First Map (Aug 22, 2025) [slides](https://docs.google.com/presentation/d/1umt4rLReQ60r3cN1_NfgRTRyawb_3TgQjdjJCcmGl7A/edit?usp=sharing), [lab instructions](https://docs.google.com/document/d/181ZP-P-LAVllb0q3dOdDbBNEaEgovKyb6ViMxEYALKo/edit?usp=sharing)
 
 1. UP 418: GIS for Planners (Fall 2025)
 
