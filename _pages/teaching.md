@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## Instructor records at UIUC
-1. UP 519: Advanced Applications of GIS (Spring 2026)
+1. UP519: Advanced Applications of GIS (Spring 2026)
 <!-- [syllabus](https://drive.google.com/file/d/1eE3_uIPjrp1hRCFOoaELvR5fC2HH-xam/view?usp=sharing) -->
 
-1. UP 418: GIS for Planners (Fall 2025, Spring 2026)
-[syllabus](https://drive.google.com/file/d/1eE3_uIPjrp1hRCFOoaELvR5fC2HH-xam/view?usp=sharing)
+1. FAA330: Making Sustainable Design (Spring 2026)
+
+1. UP418: GIS for Planners (Fall 2025, Spring 2026)  <a href="https://drive.google.com/file/d/1eE3_uIPjrp1hRCFOoaELvR5fC2HH-xam/view?usp=sharing" target="_blank">[syllabus]</a>
+
 
 
 1. GIS workshop instructor - Getting Started with GIS: Making Your First Map (Aug 22, 2025) 
