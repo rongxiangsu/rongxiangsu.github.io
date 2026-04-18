@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Instructor records at UIUC
-1. UP519: Advanced Applications of GIS (Spring 2026)
-<!-- [syllabus](https://drive.google.com/file/d/1eE3_uIPjrp1hRCFOoaELvR5fC2HH-xam/view?usp=sharing) -->
+1. UP230: Transportation Planning:
+Fundamentals and Innovations (Spring 2026) <a href="https://drive.google.com/file/d/1_A30Dn5LWnYgMEUSZnScZd21dKelI9vI/view?usp=sharing" target="_blank">[syllabus]</a>
 
-1. FAA330: Making Sustainable Design (Spring 2026)
+1. FAA330: Making Sustainable Design (Co-instructor, Spring 2026)
 
-1. UP418: GIS for Planners (Fall 2025, Spring 2026)  <a href="https://drive.google.com/file/d/1eE3_uIPjrp1hRCFOoaELvR5fC2HH-xam/view?usp=sharing" target="_blank">[syllabus]</a>
+1. UP418: GIS for Planners (Fall 2025, Spring 2026)  <a href="https://drive.google.com/file/d/1zx8jo03-TvqKLl1XeSdQ4CSb1Tp20lMn/view?usp=sharing" target="_blank">[syllabus]</a>
 
 
 

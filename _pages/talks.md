@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Determinants of the localized behavior of individual online food delivery choices. *2026 American Association of Geographers Annual Meeting.* San Francisco, CA. March 17-20, 2025. (Oral presentation) 
+
 1. Determinants of the localized behavior of individual online food delivery choices. *2025 Transportation Research Board Annual Meeting*. Washington, D.C. January, 2025. (Full paper submission; accepted for poster presentation)
 
 1. Traveling Tastes. *2024 MIT Senseable Forum on Future Cities: Being Physical*. Cambridge, MA. November 21, 2024. (Oral presentation) 
