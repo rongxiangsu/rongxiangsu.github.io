@@ -5,7 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. Determinants of the localized behavior of individual online food delivery choices. *2026 American Association of Geographers Annual Meeting.* San Francisco, CA. March 17-20, 2025. (Oral presentation) 
+1. Sensing Human Activity and Interaction Patterns through Movement Observations. Thrust of Urban Governance and Design, The Hong Kong University of Science and Technology (Guangzhou). June 15, 2026. (Invited talk)
+
+1. Sensing Human Activity and Interaction Patterns through Movement Observations. Wuhan University. June 1, 2026. (Invited talk)
+
+1. Determinants of the localized behavior of individual online food delivery choices. *2026 American Association of Geographers Annual Meeting.* San Francisco, CA. March 17-20, 2026. (Oral presentation) 
 
 1. Determinants of the localized behavior of individual online food delivery choices. *2025 Transportation Research Board Annual Meeting*. Washington, D.C. January, 2025. (Full paper submission; accepted for poster presentation)
 
