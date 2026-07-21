@@ -9,7 +9,7 @@ For my full publication list, please see my [Google Scholar](https://scholar.goo
 
 <!-- ## Human Mobility, Travel Behavior, Urban Analytics -->
 ## 2026
-1. **Su, R.**, Xiao, J., Shi, H., Goulias, K. (2023). Revisiting the effects of the built environment on VMT in California using quantile regression. *Research in Transportation Economics*, 118, 101808.
+1. **Su, R.**, Xiao, J., Shi, H., Goulias, K. (2026). Revisiting the effects of the built environment on VMT in California using quantile regression. *Research in Transportation Economics*, 118, 101808. doi: [10.1016/j.retrec.2026.101808](https://www.sciencedirect.com/science/article/pii/S0739885926001058)
 
 ## 2025
 1. **Su, R.**\*, Eshtiyagh, J.\*, Santi, P., Hu, S., Duarte, F., Mazzarello, M., Ratti, C. (2025). Determinants of the localized behavior of individual food delivery choices. *Transportation Research Part C: Emerging Technologies*, 178, 105185. doi: [10.1016/j.trc.2025.105185](https://www.sciencedirect.com/science/article/pii/S0968090X25001895) (\*indicates equal contribution) 
