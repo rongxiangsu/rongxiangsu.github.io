@@ -6,25 +6,31 @@ author_profile: true
 ---
 
 ## Instructor records at UIUC
-1. UP230: Transportation Planning:
-Fundamentals and Innovations (Spring 2026) <a href="https://drive.google.com/file/d/1_A30Dn5LWnYgMEUSZnScZd21dKelI9vI/view?usp=sharing" target="_blank">[syllabus]</a>
+### Current offerings:
 
-1. FAA330: Making Sustainable Design (Co-instructor, Spring 2026)
+1. **UP218: GIS Fundamentals for Planners** (Fall 2026) This course introduces the principles, techniques, and applications of GIS in the context of urban and regional planning. GIS refers to the technologies and systems used to create, manage, analyze, and visualize geographic and spatial data. The weekly lectures provide a comprehensive overview of the key concepts and principles of GIS, while the weekly labs offer hands-on experience with ArcGIS Pro and introduce the fundamentals of geographic data mapping and analysis. 
 
-1. UP418: GIS for Planners (Fall 2025, Spring 2026)  <a href="https://drive.google.com/file/d/1zx8jo03-TvqKLl1XeSdQ4CSb1Tp20lMn/view?usp=sharing" target="_blank">[syllabus]</a>
+1. **UP418: Intermediate GIS and Spatial Analysis** (Fall 2026, Spring 2027) This course explores the theory and practice of spatial analysis, covering methods for both vector and raster data, with an emphasis on how these techniques illuminate social science (broadly defined) questions. Students will learn to think spatially: to ask how location, distance, and geographic context shape social phenomena, and to translate those questions into rigorous, reproducible analyses. A key component of the course is learning and applying these techniques using Python, a primary tool in modern data science and social science research. 
 
 
+1. **UP230: Transportation Planning: Fundamentals and Innovations** (Fall 2026, Spring 2026) Transportation planning is undergoing a major revolution. From emerging technologies and travel modes to new waves of societal impacts, the field faces an ever-evolving set of challenges and opportunities. In light of these shifts, UP 230 will prepare students to think critically about the following types of questions: What does our transportation system look like today, and how did we get here? Who makes decisions about transportation infrastructure and how are projects funded? How can we design streets and places that are safe for users of all travel modes, ages, and abilities? What are the impacts of transportation on congestion, the environment, safety, health, and equity? Will autonomous vehicles simply encourage more driving, or can they be harnessed to support community goals?
+<!-- <a href="https://drive.google.com/file/d/1_A30Dn5LWnYgMEUSZnScZd21dKelI9vI/view?usp=sharing" target="_blank">[syllabus]</a> -->
+
+### Past offerings:
+
+1. **FAA330: Making Sustainable Design** (Co-instructor, Spring 2026) My module in FAA 330 introduces students to the use of GIS and geospatial data to explore how regional infrastructure influences sustainability. Over three weeks, students learn to find and prepare spatial data, analyze regional patterns, and use GIS to study infrastructure systems such as transportation, housing, water, and energy. Students apply these skills through a group project that culminates in an ArcGIS StoryMap combining maps, data, and narrative to communicate their findings.
+
+
+1. **UP418: GIS for Planners** (Fall 2025, Spring 2026) This course introduces the principles, techniques, and applications of GIS in the context of urban and regional planning. GIS refers to the technologies and systems used to create, manage, analyze, and visualize geographic and spatial data. The weekly lectures provide a comprehensive overview of the key concepts and principles of GIS, while the weekly labs offer hands-on experience with ArcGIS Pro and introduce the fundamentals of geographic data mapping and analysis. 
+<!-- <a href="https://drive.google.com/file/d/1zx8jo03-TvqKLl1XeSdQ4CSb1Tp20lMn/view?usp=sharing" target="_blank">[syllabus]</a> -->
 
 1. GIS workshop instructor - Getting Started with GIS: Making Your First Map (Aug 22, 2025) 
 <!-- [slides](https://docs.google.com/presentation/d/1umt4rLReQ60r3cN1_NfgRTRyawb_3TgQjdjJCcmGl7A/edit?usp=sharing), [lab instructions](https://docs.google.com/document/d/181ZP-P-LAVllb0q3dOdDbBNEaEgovKyb6ViMxEYALKo/edit?usp=sharing) -->
 
 
-## Guest lecturer at UCSB
+## Teaching Assistant/Guest lecturer at UCSB
 1. GEOG 111B: Transportation Modeling and Simulation (Winter 2020)
 - Guest lectured a class on reviewing transportation data and methodologies, focusing on technical skills for exploring and visualizing data to understand travel behavior.
-
-
-## Teaching Assistant at UCSB
 
 1. GEOG 111A/211A: Transportation Planning and Modeling (Fall 2019, Fall 2020)
 <!-- - Instructed a diverse group of graduate and undergraduate students in applying R programming for processing, analyzing, and visualizing transportation data (e.g., travel survey). -->
