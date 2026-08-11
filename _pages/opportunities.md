@@ -20,7 +20,7 @@ Below are a few on-campus research opportunities available to UIUC undergraduate
 
 [UP 397: Undergraduate Project](https://courses.illinois.edu/schedule/2026/fall/UP/397)
 
-[SPIN Internship Program](https://spin.ncsa.illinois.edu/)
+<!-- [SPIN Internship Program](https://spin.ncsa.illinois.edu/) -->
 
 [McNair Scholars Program](https://www.jeffriescenter.illinois.edu/trio/mcnair)
 
