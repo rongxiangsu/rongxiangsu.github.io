@@ -25,7 +25,7 @@ author_profile: true
 <!-- <a href="https://drive.google.com/file/d/1zx8jo03-TvqKLl1XeSdQ4CSb1Tp20lMn/view?usp=sharing" target="_blank">[syllabus]</a> -->
 
 1. GIS workshop instructor - Getting Started with GIS: Making Your First Map
-[tutorial](https://drive.google.com/file/d/1xxuglNcxEZ-rfx2Yc1IEBBSqf6PqL6e6/view?usp=sharing)
+[(tutorial)](https://drive.google.com/file/d/1xxuglNcxEZ-rfx2Yc1IEBBSqf6PqL6e6/view?usp=sharing)
 
 
 ## Teaching Assistant/Guest lecturer at UCSB
