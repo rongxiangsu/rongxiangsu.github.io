@@ -24,8 +24,8 @@ author_profile: true
 1. **UP418: GIS for Planners** (Fall 2025, Spring 2026) This course introduces the principles, techniques, and applications of GIS in the context of urban and regional planning. GIS refers to the technologies and systems used to create, manage, analyze, and visualize geographic and spatial data. The weekly lectures provide a comprehensive overview of the key concepts and principles of GIS, while the weekly labs offer hands-on experience with ArcGIS Pro and introduce the fundamentals of geographic data mapping and analysis. 
 <!-- <a href="https://drive.google.com/file/d/1zx8jo03-TvqKLl1XeSdQ4CSb1Tp20lMn/view?usp=sharing" target="_blank">[syllabus]</a> -->
 
-1. GIS workshop instructor - Getting Started with GIS: Making Your First Map (Aug 22, 2025) 
-<!-- [slides](https://docs.google.com/presentation/d/1umt4rLReQ60r3cN1_NfgRTRyawb_3TgQjdjJCcmGl7A/edit?usp=sharing), [lab instructions](https://docs.google.com/document/d/181ZP-P-LAVllb0q3dOdDbBNEaEgovKyb6ViMxEYALKo/edit?usp=sharing) -->
+1. GIS workshop instructor - Getting Started with GIS: Making Your First Map
+[tutorial](https://drive.google.com/file/d/1xxuglNcxEZ-rfx2Yc1IEBBSqf6PqL6e6/view?usp=sharing)
 
 
 ## Teaching Assistant/Guest lecturer at UCSB
