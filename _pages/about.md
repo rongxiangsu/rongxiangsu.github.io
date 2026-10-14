@@ -15,8 +15,8 @@ My name is Rongxiang Su (pronounced "Rong-sheeyang"), and I am a Teaching Assist
 My research examines how people interact with urban space through their everyday mobility, activities, and use of urban services. I integrate diverse geospatial data, including mobility traces, travel surveys, food-delivery records, and user-generated reviews, with computational spatial analysis and emerging artificial intelligence methods. My work addresses three interconnected questions: 
 
 - (RQ1) How can we better measure dynamic human activity and interaction in urban environments?
-- (RQ2) How do mobility and access shape people's opportunities and experiences across urban space? 
-- (RQ3) And how do people experience and perceive urban services across different environments and contexts?
+- (RQ2) How does everyday mobility shape people's access to and experiences of urban space
+- (RQ3) How do people use and perceive urban services across different environments and contexts?
 
 My research trajectory progresses from developing computational approaches to model human activity and mobility, to examining how everyday movement shapes accessibility and social exposure, and more recently to understanding behavior and experiences in platform-mediated urban services such as food delivery services. I am always happy to discuss research ideas and potential collaborations. Feel free to reach out to me at <ins>rsu at illinois.edu</ins>!
 
